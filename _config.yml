@@ -1,0 +1,14 @@
+layout_spectrum: 0.4498208
+typography_spectrum: 0.1039427
+color:
+  saturation: 0.7567567
+  lightness: 0.1654639
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#DE0000'
+    - '#C6C6C6'
+    - '#363636'
+    - '#9A9A9A'
+  rhythmicContrast: 0.2621801
+name: Daje
